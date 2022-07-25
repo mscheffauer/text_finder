@@ -1,0 +1,8 @@
+/home/cvexpert/.ssh/cgcvmaster-cv-task-1-51917931/src/build/CMakeFiles/rebuild_cache.dir
+/home/cvexpert/.ssh/cgcvmaster-cv-task-1-51917931/src/build/CMakeFiles/edit_cache.dir
+/home/cvexpert/.ssh/cgcvmaster-cv-task-1-51917931/src/build/CMakeFiles/clean-all.dir
+/home/cvexpert/.ssh/cgcvmaster-cv-task-1-51917931/src/build/cv/CMakeFiles/rebuild_cache.dir
+/home/cvexpert/.ssh/cgcvmaster-cv-task-1-51917931/src/build/cv/CMakeFiles/edit_cache.dir
+/home/cvexpert/.ssh/cgcvmaster-cv-task-1-51917931/src/build/cv/task1/CMakeFiles/rebuild_cache.dir
+/home/cvexpert/.ssh/cgcvmaster-cv-task-1-51917931/src/build/cv/task1/CMakeFiles/edit_cache.dir
+/home/cvexpert/.ssh/cgcvmaster-cv-task-1-51917931/src/build/cv/task1/CMakeFiles/cvtask1.dir
