@@ -1,0 +1,24 @@
+{
+  "testcases":
+  [
+    {
+      "name": "graz",
+      "image_path": "data/input/graz.png",
+      "edge_threshold_min": 175,
+      "edge_threshold_max": 220,
+      "stroke_width_ratio_threshold": 3.0,
+      "neighbor_offset": 2,
+      "variance_ratio": 2,
+      "aspect_ratio_threshold": 10.0,
+      "diameter_ratio_threshold": 10.0,
+      "min_height": 10,
+      "max_height": 300,
+      "height_ratio_threshold": 2.0,
+      "width_ratio_threshold": 5.0,
+      "distance_ratio": 3.0,
+      "median_ratio_threshold": 2.0,
+      "color_distance_threshold": 30.0,
+      "black_on_white": true
+    }
+  ]
+}
